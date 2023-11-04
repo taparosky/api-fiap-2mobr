@@ -1,2 +1,2 @@
 # api-fiap-2mobr
-Entrega de trabalho final da matéria de API &amp; MICROSSERVICES DEVELOPMENT 
+Entrega de trabalho final do mõdulo de API &amp; MICROSSERVICES DEVELOPMENT no curso de MBA de Desenvolvimento Mobile na FIAP.
